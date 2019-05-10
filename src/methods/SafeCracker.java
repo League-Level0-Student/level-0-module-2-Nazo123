@@ -18,6 +18,11 @@ public class SafeCracker {
 		 * Your mission: use the tryCode method to crack the safe by trying all possible
 		 * combinations
 		 */
+		Random r = new Random();
+		
+		
+		for (int i=0;i<10000000;i++) {int guess = r.nextInt(1000001);
+		tryCode(guess);}
 		
 
 	}
@@ -25,7 +30,7 @@ public class SafeCracker {
 	static void tryCode(int guess) {
 		System.out.println("trying " + guess);
 
-		int secretCode = 9999999 - wekncrzpasfdkjhcfjse;
+		int secretCode = 9999999 ;
 
 		if (guess == secretCode) {
 			JOptionPane.showMessageDialog(null, "Congratulations! You cracked the safe with " + guess);

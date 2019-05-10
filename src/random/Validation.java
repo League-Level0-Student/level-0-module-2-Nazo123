@@ -12,14 +12,105 @@ public class Validation {
 		
 		Random randomMaker = new Random();
 		
-		int randomNumber = randomMaker.nextInt(5);
+int randomNumber = randomMaker.nextInt(5);
 		
 		System.out.println(randomNumber);
 
 		// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+ else if (randomNumber==1) {System.out.println("You are kind.");}
+ else if (randomNumber==2) {System.out.println("You are amazing.");}
+ else if (randomNumber==3) {System.out.println("You are cool.");}
+ else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
 
-		// 2. Repeat all the code above 10 times
-		
-		// 3. Find someone to test out your program. They will like it :)
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
+randomNumber = randomMaker.nextInt(5);
+
+System.out.println(randomNumber);
+
+// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomNumber==0) {System.out.println("You are nice.");}
+else if (randomNumber==1) {System.out.println("You are kind.");}
+else if (randomNumber==2) {System.out.println("You are amazing.");}
+else if (randomNumber==3) {System.out.println("You are cool.");}
+else  {System.out.println("You are smart.");}
 	}
 }
