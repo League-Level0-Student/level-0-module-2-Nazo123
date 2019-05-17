@@ -17,7 +17,7 @@ public static void main(String[] args) {
 	   int num4 = a.nextInt(10);
 	   int num5 = a.nextInt(10);
 	   
-	JOptionPane.showMessageDialog(null, "-------\n|Power|\n|Bowl |\n|"+num1+num2+num3+num4+num5+"|\n-------");
+	JOptionPane.showMessageDialog(null, "-------\n| Power |\n| Bowl   |\n| "+num1+num2+num3+num4+num5+"|\n-------");
 	
 	
 	
